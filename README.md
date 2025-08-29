@@ -1,5 +1,7 @@
 # Handwriting Recognition with MNIST + Mediapipe
 
+Link to download model: https://drive.google.com/file/d/1mqCcwghY2ek0KRlyNnrju0UjPWlubvS7/view?usp=sharing
+
 This project combines a custom-trained MNIST neural network with Mediapipe hand tracking.  
 You can ✋ use your hand as a pen to draw digits in the air, and the model will predict the digit in real-time.  
 
